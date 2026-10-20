@@ -1,10 +1,10 @@
-body {
+.body {
   background-color: #FFEDDC;
   font-family: Arial, Sans Serif;
   color: #1A100F;
 }
 
-kartu-profil {
+.kartu-profil {
   width: 300px;
   margin: 50px auto;
   padding: 20px
@@ -14,11 +14,11 @@ kartu-profil {
 }
 |
 
-kartu-profil img {
+.kartu-profil img {
   width: 150px;
   border-radus: 50%;
 }
-kartu-profil {
+.kartu-profil {
   width: 300px;
   margin: 50px auto;
   padding: 20px
